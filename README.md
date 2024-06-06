@@ -13,7 +13,7 @@ Link Wokwi:
 https://wokwi.com/projects/399376745850423297
 
 Diagram Blok:
-<img src="Gambar/Diagram_Blok.png">
+<img src="Gambar/Diagram_Blok_IOT.png">
 
 Hasil Pengujian:
 <img src="Gambar/Hasil_Pengujian.jpg">
