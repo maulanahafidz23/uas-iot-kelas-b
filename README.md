@@ -15,6 +15,9 @@
 **Link Wokwi:**
 https://wokwi.com/projects/399376745850423297
 
+**Link Youtube:**
+https://youtu.be/vu__ELKkhXw?si=P-7XikP08QYILd63
+
 **Diagram Blok:**
 
 <img src="Gambar/Diagram_Blok_IOT.png">
