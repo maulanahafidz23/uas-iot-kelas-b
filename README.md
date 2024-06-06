@@ -1,6 +1,7 @@
 # uas-iot-kelas-b
 
-**Judul Projek**
+**Judul Projek:**
+
 "Pemantauan Kualitas Udara dan Kontrol Pencahayaan Hemat Energi Berbasis IoT"
 
 **Nama & NIM Anggota Kelompok**
