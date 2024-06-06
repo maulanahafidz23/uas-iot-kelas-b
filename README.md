@@ -10,8 +10,7 @@
 3. Maulana Muhammad Hafidz 	(2109106070)
 
 **Note:**
-1. Kodingan dan Komponen ada pada link Wokwi
-2. Projek Kodular ada pada folder "UAS"
+Kodingan dan Komponen ada pada link Wokwi
    
 **Link Wokwi:**
 https://wokwi.com/projects/399376745850423297
